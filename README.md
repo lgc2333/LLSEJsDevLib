@@ -2,7 +2,7 @@
 
 # LLSEJsDevLib
 
-为 LLSE JS/TS 插件开发者准备的用于 自动补全&类型提示 的 TS 类型定义文件开发库
+为 LLSE JS/TS 插件开发者准备的用于 自动补全&类型提示 的 TS 类型定义文件
 
 ## 介绍
 
@@ -21,7 +21,7 @@
 请在你编写的插件文件最顶上添加一行注释
 
 ```js
-/// <reference path="本仓库根目录路径/src/index.ts" />
+/// <reference path="[本仓库根目录路径]/src/llse-js/index.d.ts" />
 ```
 
 ## 联系
