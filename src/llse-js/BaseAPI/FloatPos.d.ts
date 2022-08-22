@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/triple-slash-reference */
-/// <reference path="index.d.ts" />
+/// <reference path="../index.d.ts" />
 
 /**
  * ### 浮点数 坐标对象

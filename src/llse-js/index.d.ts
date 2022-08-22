@@ -2,5 +2,8 @@
 
 /// <reference path="baseTypes.d.ts" />
 
-/// <reference path="IntPos.d.ts" />
-/// <reference path="FloatPos.d.ts" />
+/// <reference path="BaseAPI/IntPos.d.ts" />
+/// <reference path="BaseAPI/FloatPos.d.ts" />
+/// <reference path="BaseAPI/DirectionAngle.d.ts" />
+
+/// <reference path="mc.d.ts" />
