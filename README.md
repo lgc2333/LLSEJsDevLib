@@ -2,6 +2,8 @@
 
 # LLSEJsDevLib
 
+[![wakatime](https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c481038d-93eb-4be6-b253-10647d518a5b.svg)](https://wakatime.com/badge/user/b61b0f9a-f40b-4c82-bc51-0a75c67bfccf/project/c481038d-93eb-4be6-b253-10647d518a5b)
+
 为 LLSE JS/TS 插件开发者准备的用于 自动补全&类型提示 的 TS 类型定义文件
 
 ## 介绍
