@@ -39,5 +39,5 @@ declare namespace mc {
    *
    * @returns 一个浮点数坐标对象
    */
-  function newFloatPos(x: Float, y: Float, z: Float, dimId: Integer): Float;
+  function newFloatPos(x: Float, y: Float, z: Float, dimId: Integer): FloatPos;
 }
