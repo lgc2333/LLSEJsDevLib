@@ -27,4 +27,6 @@ declare class DirectionAngle {
    * @returns 当前方向角对象所指示的基本朝向
    */
   toFacing(): Integer;
+
+  toString(): string;
 }
