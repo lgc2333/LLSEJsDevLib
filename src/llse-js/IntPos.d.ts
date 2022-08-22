@@ -9,6 +9,8 @@
  * 坐标对象的各个成员都是**可读写**的
  */
 declare class IntPos {
+  constructor(x: Integer, y: Integer, z: Integer, dimId: Integer);
+
   /** x坐标（整数） */
   x: Integer;
 
@@ -37,4 +39,6 @@ declare class IntPos {
    * 如果某种情况下维度无效，或者无法获取，你会发现`dimid`的值为`-1`
    */
   dimid: Integer;
+
+  toString(): string;
 }
