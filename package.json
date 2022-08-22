@@ -1,0 +1,36 @@
+{
+  "name": "llse_js_dev_lib",
+  "version": "0.1.0",
+  "description": "Auto complete & type hints for LLSE js plugin developers",
+  "main": "src/Api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgc2333/LLSEJsDevLib.git"
+  },
+  "keywords": [
+    "llse",
+    "liteloader",
+    "liteloader-scriptengine",
+    "liteloaderbds",
+    "bds",
+    "minecraft"
+  ],
+  "author": "student_2333 <lgc2333@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgc2333/LLSEJsDevLib/issues"
+  },
+  "homepage": "https://github.com/lgc2333/LLSEJsDevLib#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.34.0",
+    "@typescript-eslint/parser": "^5.34.0",
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-config-prettier": "^8.5.0"
+  },
+  "dependencies": {}
+}
