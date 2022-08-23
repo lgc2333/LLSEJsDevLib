@@ -6,6 +6,8 @@
 
 为 LLSE JS/TS 插件开发者准备的用于 自动补全&类型提示 的 TS 类型定义文件
 
+# Archive 迁移到[此处](https://github.com/LiteLScript-Dev/LLseHelper)
+
 ## 介绍
 
 待补
